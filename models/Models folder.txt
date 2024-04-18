@@ -1,0 +1,1 @@
+User , category and product model is included in this folder.
